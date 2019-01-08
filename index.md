@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to TIBCO LABS GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/TIBCOSoftware/TIBCO-LABS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+TIBCO LABS™ is a program designed to provide customers and partners with a mechanism for actively participating in TIBCO’s history of innovation. TIBCO has always been at the forefront of innovation, and TIBCO LABS™  allows participants to share in this history by collaboratively building solutions to today’s challenging problems, previewing new capabilities, and accessing emerging technologies in areas such as blockchain, AI / ML and IoT. Through TIBCO LABS™, customers and partners can gain insight into TIBCO’s innovation activities, participate in shaping the form of these activities in the years to come, and benefit from TIBCO’s leadership position in integration and analytics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TIBCOSoftware/TIBCO-LABS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We have currently all our content here on [TIBCO Community TIBCO LABS Wiki](https://community.tibco.com/wiki/tibco-labs)
