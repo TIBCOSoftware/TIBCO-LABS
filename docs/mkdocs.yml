@@ -1,5 +1,5 @@
 # Project information
-site_name: TIBCO Labs™
+site_name: TIBCO LABS™
 site_description: 'initiative 2018-2019'
 site_author: 'TIBCO Software'
 site_url: 'https://github.com/TIBCOSoftware/TIBCO-LABS'
@@ -11,7 +11,6 @@ repo_url: 'https://github.com/TIBCOSoftware/TIBCO-LABS'
 
 # Configuration
 theme:
-  #name: 'bootstrap386'
   name: null
   custom_dir: 'theme/tibco-material'
   logo: 'assets/images/ic-labs.svg'
@@ -33,7 +32,7 @@ nav:
 
 # Customization
 extra:
-  manifest: 'manifest.webmanifest'
+  #manifest: 'manifest.webmanifest'
   social:
     - type: 'github'
       link: 'https://github.com/TIBCOSoftware'
