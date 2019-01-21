@@ -1,0 +1,59 @@
+# Project information
+site_name: TIBCO Labs™
+site_description: 'initiative 2018-2019'
+site_author: 'TIBCO Software'
+site_url: 'https://github.com/TIBCOSoftware/TIBCO-LABS'
+edit_uri: ''
+
+# Repository
+repo_name: 'TIBCOSoftware/TIBCO-LABS'
+repo_url: 'https://github.com/TIBCOSoftware/TIBCO-LABS'
+
+# Configuration
+theme:
+  #name: 'bootstrap386'
+  name: null
+  custom_dir: 'theme/tibco-material'
+  logo: 'assets/images/ic-labs.svg'
+    #icon: 'cloud'
+  language: 'en'
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  feature:
+    tabs: false
+  favicon: 'assets/images/favicon.ico'
+
+# Navigation
+nav:
+  - Home: index.md
+
+# Customization
+extra:
+  manifest: 'manifest.webmanifest'
+  social:
+    - type: 'github'
+      link: 'https://github.com/TIBCOSoftware'
+    - type: 'twitter'
+      link: 'https://twitter.com/tibco'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/company/tibco'
+
+# Google Analytics
+#google_analytics:
+#  - 'UA-XXXXXXXX-X'
+#  - 'auto'
+
+# Extensions
+#markdown_extensions:
+#  - admonition
+#  - codehilite:
+#      guess_lang: false
+#  - toc:
+#      permalink: true
+
+# Copyright
+copyright: 'Copyright &copy; 2019 TIBCO Software'
