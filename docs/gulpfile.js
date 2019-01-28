@@ -37,12 +37,12 @@ function gitcomit(cb) {
 
 // push all latest changes to Repo.
 function gitpush(cb) {
-    run('git push"', function (err, stdout, stderr) {
-      console.log(stdout);
-      console.log(stderr);
-      cb(err);
-    });
-  };
+  run('git push"', function (err, stdout, stderr) {
+    console.log(stdout);
+    console.log(stderr);
+    cb(err);
+  });
+};
 
 // build and deploy to GH-Pages of the Repo.
 function genMKdocs(cb) {
