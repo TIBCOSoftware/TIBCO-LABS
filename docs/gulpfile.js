@@ -17,6 +17,13 @@ function gitpull(cb) {
   });
 };
 
+function gitpull(cb) {
+  run('git pull', function (err, stdout, stderr) {
+    console.log(stdout);
+    console.log(stderr);
+    cb(err);
+  });
+};
 
 function genMKdocs(cb) {
   // prod: 'mkdocs gh-deploy --config-file docs/mkdocs.yml --remote-branch gh-pages'
