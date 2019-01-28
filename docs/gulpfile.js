@@ -28,7 +28,16 @@ function gitadd(cb) {
 
 // comit all latest changes to Repo.
 function gitcomit(cb) {
-    run('git commit -m "apply latest changes"', function (err, stdout, stderr) {
+  run('git commit -m "apply latest changes"', function (err, stdout, stderr) {
+    console.log(stdout);
+    console.log(stderr);
+    cb(err);
+  });
+};
+
+// comit all latest changes to Repo.
+function gitpush(cb) {
+    run('git push"', function (err, stdout, stderr) {
       console.log(stdout);
       console.log(stderr);
       cb(err);
@@ -57,4 +66,4 @@ function genZIP(cb) {
     cb();
 };
 
-exports.default = series(gitpull, gitadd, gitcomit, genMKdocs);
+exports.default = series(gitpull, gitadd, gitcomit, gitpush, genMKdocs);
