@@ -35,7 +35,7 @@ function gitcomit(cb) {
   });
 };
 
-// comit all latest changes to Repo.
+// push all latest changes to Repo.
 function gitpush(cb) {
     run('git push"', function (err, stdout, stderr) {
       console.log(stdout);
