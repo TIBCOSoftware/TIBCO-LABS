@@ -12,6 +12,10 @@ For more details on how you can participate in TIBCO LABS™ , please reach out 
 
 > We have currently all our content here on [TIBCO Community - TIBCO Labs Wiki](https://community.tibco.com/wiki/tibco-labs "view in TIBCO Community Wiki")
 
+### AutoML
+Automated Machine Learning for business analysts and data scientists<br><br>
+- [__AutoML for TIBCO Data Science__](https://community.tibco.com/modules/automl-tibcor-data-science-team-studio)
+
 ### TIBCO Cloud™ Starters 
 Quickstart Apps based on TIBCO Cloud™ Products.<br><br>
 - [__TIBCO Cloud™ My Partner App__](https://community.tibco.com/modules/tibco-cloud-my-partner-app)<br>
