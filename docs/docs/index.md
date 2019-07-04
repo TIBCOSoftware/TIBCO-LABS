@@ -16,6 +16,10 @@ For more details on how you can participate in TIBCO LABS™ , please reach out 
 Automated Machine Learning for business analysts and data scientists<br><br>
 - [__AutoML for TIBCO Data Science__](https://community.tibco.com/modules/automl-tibcor-data-science-team-studio)
 
+### Discover
+A Process Mining solution built on the TIBCOⓇ Connected Intelligence platform.<br><br>
+- [__Project Discover™__](https://community.tibco.com/modules/project-discover)
+
 ### TIBCO Cloud™ Starters 
 Quickstart Apps based on TIBCO Cloud™ Products.<br><br>
 - [__TIBCO Cloud™ My Partner App__](https://community.tibco.com/modules/tibco-cloud-my-partner-app)<br>
