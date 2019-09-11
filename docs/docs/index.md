@@ -20,10 +20,17 @@ Automated Machine Learning for business analysts and data scientists<br><br>
 A Process Mining solution built on the TIBCOⓇ Connected Intelligence platform.<br><br>
 - [__Project Discover™__](https://community.tibco.com/modules/project-discover)
 
+### TIBCO Cloud™ Starters Toolkit - for Angular.IO Developers
+Documentation Site of all TIBCO Cloud™ Starters Toolkit Repositories on GitHub.<br><br>
+- [__TIBCO Cloud™ Starters Toolkit__](https://tibcosoftware.github.io/TCSToolkit/)<br>
+TIBCO Cloud Live Apps Case Manager App, containing all core and essential Case Management Features to create more advanced applications.
+- [__TIBCO Cloud™ Starters Toolkit - Case Manager App__](https://tibcosoftware.github.io/TCSToolkit/Angular/starters/readme/)
+
 ### TIBCO Cloud™ Starters 
 Quickstart Apps based on TIBCO Cloud™ Products.<br><br>
 - [__TIBCO Cloud™ My Partner App__](https://community.tibco.com/modules/tibco-cloud-my-partner-app)<br>
 - [__TIBCO Cloud™ Risk Investigation App__](https://community.tibco.com/modules/tibco-cloud-risk-investigation-app)
+Both Apps are highly reusable for different business purposes. (Closed Code)
  
 ### Blockchain 
 Innovation Projects Looking at the World of Distributed Ledgers and Smart Contracts<br><br>
