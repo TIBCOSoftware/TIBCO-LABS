@@ -39,6 +39,10 @@ Innovation Projects Looking at the World of Distributed Ledgers and Smart Contra
 ### Chatbots/Conversational UIs
 Looking at Having a Conversation with Your Data<br><br>
 - [__Project Cloud Conversations__](https://community.tibco.com/modules/project-cloud-conversations)
+
+### Augmented Reality connected to TIBCO Cloud™
+Using Hololens with TIBCO Cloud Products<br><br>
+- [__AR Projects Wiki__](https://community.tibco.com/wiki/tibco-labstm-augmented-reality-wiki)
  
 ### More to come...
 ...we have many innovation ideas in our back pocket! <br>Be sure to subscribe to updates and check us out regularly!  :)
