@@ -24,7 +24,7 @@ A Process Mining solution built on the TIBCOⓇ Connected Intelligence platform.
 Documentation Site of all TIBCO Cloud™ Starters Toolkit Repositories on GitHub.<br>
 - [__TIBCO Cloud™ Starters Toolkit__](https://tibcosoftware.github.io/TCSToolkit/)<br><br>
 TIBCO Cloud Live Apps Case Manager App, containing all core and essential Case Management Features to create more advanced applications.<br>
-- [__TIBCO Cloud™ Starters Toolkit - Case Manager App__](https://tibcosoftware.github.io/TCSToolkit/Angular/starters/readme/)
+- [__TIBCO Cloud™ Starters Toolkit - Case Manager App__](https://tibcosoftware.github.io/TCSToolkit/Angular/starters/TCSTK-case-manager-app/readme/)
 
 ### TIBCO Cloud™ Starters 
 Quickstart Apps based on TIBCO Cloud™ Products.<br><br>
