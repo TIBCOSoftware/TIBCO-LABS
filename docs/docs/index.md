@@ -34,7 +34,7 @@ Both Apps are highly reusable for different business purposes. (Closed Code)
  
 ### Blockchain 
 Innovation Projects Looking at the World of Distributed Ledgers and Smart Contracts<br><br>
-- [__Project Dovetail™__](https://community.tibco.com/modules/project-dovetail)
+- [__Project Dovetail™__](https://tibcosoftware.github.io/dovetail)
  
 ### Chatbots/Conversational UIs
 Looking at Having a Conversation with Your Data<br><br>
