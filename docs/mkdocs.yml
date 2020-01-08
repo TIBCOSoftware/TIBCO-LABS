@@ -1,6 +1,6 @@
 # Project information
 site_name: TIBCO LABS™
-site_description: 'initiative 2018-2019'
+site_description: 'initiative 2018-2020'
 site_author: 'TIBCO Software'
 site_url: 'https://github.com/TIBCOSoftware/TIBCO-LABS'
 edit_uri: ''
@@ -55,4 +55,4 @@ extra:
 #      permalink: true
 
 # Copyright
-copyright: 'Copyright &copy; 2019 TIBCO Software Inc. All Rights Reserved.'
+copyright: 'Copyright &copy; 2020 TIBCO Software Inc. All Rights Reserved.'
