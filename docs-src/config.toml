@@ -94,7 +94,7 @@ github_subdir = "docs-src"
 algolia_docsearch = false
 
 # Enable Lunr.js offline search
-offlineSearch = true
+offlineSearch = false
 
 # User interface configuration
 [params.ui]
