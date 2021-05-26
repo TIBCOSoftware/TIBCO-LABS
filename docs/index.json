@@ -21,10 +21,10 @@
 <meta property="og:description" content="" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://tibcosoftware.github.io/TIBCO-LABS/index.json" />
-<meta property="article:modified_time" content="2020-05-28T11:07:47+02:00" /><meta property="og:site_name" content="TIBCO LABS™" />
+<meta property="article:modified_time" content="2020-12-03T09:58:19+01:00" /><meta property="og:site_name" content="TIBCO LABS™" />
 <meta itemprop="name" content="">
 <meta itemprop="description" content="">
-<meta itemprop="dateModified" content="2020-05-28T11:07:47+02:00" />
+<meta itemprop="dateModified" content="2020-12-03T09:58:19+01:00" />
 <meta itemprop="wordCount" content="0">
 
 
@@ -163,7 +163,7 @@ if (!doNotTrack) {
         
       </div>
       <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
-        <small class="text-white">&copy; 2020 TIBCO Software Inc. All Rights Reserved</small>
+        <small class="text-white">&copy; 2021 TIBCO Software Inc. All Rights Reserved</small>
         <small class="ml-1"><a href="https://www.tibco.com/company/terms-of-use" target="_blank">Privacy Policy</a></small>
 	
 		<p class="mt-2"><a href="/TIBCO-LABS/about/">About TIBCO LABS</a></p>
